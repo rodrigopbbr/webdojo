@@ -1,0 +1,46 @@
+{
+  "personal": {
+    "name": "Rodrigo Pereira",
+    "email": "teste@gmail.com",
+    "phone": "(21) 99999-5455",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "56314389097",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem Ipsum is simply dummy text",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Rodrigo Pereira",
+    "email": "teste@gmail.com",
+    "phone": "(21) 99999-5455",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "62177036000100",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem Ipsum is simply dummy text",
+    "techs": [
+      "Cypress",
+      "Selenium"
+    ],
+    "terms": true
+  }
+}
